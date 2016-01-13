@@ -10,6 +10,7 @@ namespace Repo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Something terrible");
         }
     }
 }
